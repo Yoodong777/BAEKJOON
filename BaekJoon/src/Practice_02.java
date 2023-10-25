@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.util.StringTokenizer;
 
-public class TEST3 {
+public class Practice_02 {
    public static void main(String[] args) throws Exception {
        String text = "홍길동/이수홍/박연수";
 
