@@ -23,6 +23,5 @@ public class Bak_1049 {
         System.out.println(payMoney);
         scan.close();
     }
-    /* test */
 
 }
