@@ -35,7 +35,6 @@ public class Bak_2607 {
             else if(first.length() == str.length() + 1 && str.length() == cnt){
                 result++;
             }
-
         }
         System.out.println(result);
     }

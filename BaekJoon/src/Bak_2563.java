@@ -26,7 +26,6 @@ public class Bak_2563 {
                 }
             }
         }
-
         System.out.println(result);
     }
 }

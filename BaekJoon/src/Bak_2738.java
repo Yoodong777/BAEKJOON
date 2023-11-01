@@ -15,13 +15,11 @@ public class Bak_2738 {
                 arr[i][j] = sc.nextInt();
             }
         }
-
         for (int i = 0; i < a; i++) {
             for (int j = 0; j < b; j++) {
                 arr2[i][j] = sc.nextInt();
             }
         }
-
         for (int i = 0; i < a; i++) {
             for (int j = 0; j < b; j++) {
                 System.out.print(arr[i][j]+arr2[i][j] + " ");
@@ -29,9 +27,5 @@ public class Bak_2738 {
                     System.out.println();
             }
         }
-
-
-        
-        
     }
 }
