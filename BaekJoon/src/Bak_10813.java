@@ -12,11 +12,11 @@ public class Bak_10813 {
         for (int i = 0; i < N; i++) {
             arr[i] = i+1;
         }
-
         for (int i = 0; i < M; i++) {
             int tmp;
             int F = sc.nextInt();
             int E = sc.nextInt();
+
 
             tmp = arr[F-1];
             arr[F-1] = arr[E-1];
