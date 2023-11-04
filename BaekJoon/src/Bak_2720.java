@@ -22,7 +22,11 @@ public class Bak_2720 {
                 c = c % Nickel;
                 System.out.print(c / Penny + " ");
                 System.out.println();
+
             }
+
         }
+
     }
+
 }
