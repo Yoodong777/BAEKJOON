@@ -8,6 +8,7 @@ public class Bak_9506 {
             int a = sc.nextInt();
             if(a == -1){
                 break;
+
             }
 
         }
