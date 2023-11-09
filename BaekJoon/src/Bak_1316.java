@@ -14,7 +14,6 @@ public class Bak_1316 {
             if(st.charAt(i) == st.charAt(i + 1)){
                 System.out.println("1입니다");
             }
-            if( st.charAt(i) )
 
 
         }
