@@ -5,5 +5,7 @@ public class Bak_1978 {
         Scanner sc = new Scanner(System.in);
 
 
+
+
     }
 }
