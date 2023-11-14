@@ -15,7 +15,6 @@ public class Bak_9506 {
                     sb.append(i + " + ");
                     sum += i;
                 }
-
             System.out.println(n == sum ? n + " = " + sb.toString().substring(0, sb.length()-3) : n + " is NOT perfect.");
         }
     }
