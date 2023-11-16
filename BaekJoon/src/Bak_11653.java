@@ -19,6 +19,7 @@ public class Bak_11653 {
                         System.out.println(array[index]);
                         return;
                     }
+
                     N = N / j;
                     break;
                 }
