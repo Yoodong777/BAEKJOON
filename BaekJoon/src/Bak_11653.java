@@ -22,6 +22,7 @@ public class Bak_11653 {
 
                     N = N / j;
                     break;
+
                 }
             }
         }
