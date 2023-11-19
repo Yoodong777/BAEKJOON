@@ -4,19 +4,25 @@ public class Bak_1316 {
 
         Scanner sc = new Scanner(System.in);
 
-        int a = sc.nextInt();
-        int count = 0;
+        int[] arr = new int[26];
+        int num = sc.nextInt();
+        int cnt = num;
 
-        for (int i = 0; i < a; i++) {
+        for (int i = 0; i < num; i++) {
             String st = sc.next();
-            char c = st.charAt(i);
+            boolean[] test = new boolean[26];
 
-            if(st.charAt(i) == st.charAt(i + 1)){
-                System.out.println("1입니다");
+            for (int j = 0; j < st.length() - 1; j++) {
+                if(st.charAt(j) != st.charAt(j+1)){
+                    if(test[st.charAt(j + 1) - 97]) {
+                        cnt--;
+                        break;
+                    }
+                }
+                test[st.charAt(j) - 97] = true;
             }
-
-
         }
+        System.out.println(cnt);
     }
 
 }
