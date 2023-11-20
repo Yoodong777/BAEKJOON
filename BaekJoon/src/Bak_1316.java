@@ -23,5 +23,4 @@ public class Bak_1316 {
         }
         System.out.println(cnt);
     }
-
 }
