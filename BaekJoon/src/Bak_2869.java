@@ -10,5 +10,6 @@ public class Bak_2869 {
 
         double day = Math.ceil((double)(result - down) / (up - down));
         System.out.println((int)day);
+
     }
 }

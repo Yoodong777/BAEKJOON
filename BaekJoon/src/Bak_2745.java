@@ -10,8 +10,6 @@ public class Bak_2745 {
         int b = 0;
         long sum = 0;
 
-
-
         for (int i = 0; i < st.length(); i++) {
             char c = st.charAt(i); /* 숫자든 문자든 한 단어로 받아 */
             if(c - 57 > 0){ /* 문자열 */
