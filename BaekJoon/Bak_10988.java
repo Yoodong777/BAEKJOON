@@ -4,7 +4,7 @@ public class Bak_10988 {
 
         Scanner sc = new Scanner(System.in);
 
-        String st = sc.next();
+        String st = sc.next()
 
         for (int i = 0; i < st.length() / 2; i++) {
             char front = st.charAt(i);
