@@ -5,25 +5,19 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class MethodStudy_6 {
-
-    public static String numbering(int init, int limit) {
-        int i = init;
-        String output = "";
-        while (i < limit) {
-            output += i;
-            i++;
+    public static String num(int i) {
+        if(i == 0){
+            return "zero";
+        }else if(i == 1){
+            return "one";
+        }else if(i == 2){
+            return "two";
         }
-        return output;
+        return "none";
     }
 
     public static void main(String[] args) {
-        String result = numbering(1, 5);
-        System.out.println(result);
-        try {
-            BufferedWriter out = new BufferedWriter(new FileWriter("out.txt"));
-            out.write(result);
-            out.close();
-        }catch(IOException e){
-        }
+
+        System.out.println(num(3));
     }
 }
