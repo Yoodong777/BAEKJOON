@@ -5,12 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a84525-7ed0-48a3-8c03-43e7f8ca152c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_1037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_1049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_1059.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1059.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_10798.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_10798.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_10810.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_10810.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_10811.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_10811.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_10813.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_10813.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_10988.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_10988.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1157.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_11653.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_11653.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_11654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_14215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_14215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_1978.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1978.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_24262.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_24262.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2444.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2444.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2501.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2506.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_25206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_25206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2563.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2581.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2607.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2607.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2738.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_27433.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_27433.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2745.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2745.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2941.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_3052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_5073.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_5073.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bak_9506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_9506.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_06/Practice_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_06/Practice_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_06/Practice_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program0_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program0_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program0_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program0_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program0_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program0_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program0_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program0_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program0_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program0_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program0_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program0_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program1_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program1_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program1_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program1_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program1_07_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Program1_07_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Study_20231129.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_06/Study_20231129.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +87,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Yoo/IdeaProjects/BaekJoon/src/MethodStudy",
+    "last_opened_file_path": "C:/Users/Yoo/IdeaProjects/BaekJoon/src/chap_06",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -54,6 +95,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\chap_06" />
+      <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\Programmers" />
+      <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\BaekJoon" />
       <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\MethodStudy" />
     </key>
   </component>
