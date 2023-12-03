@@ -1,3 +1,5 @@
+package MethodStudy;
+
 public class MethodStudy {
     public static void numbering(){
         int i = 0;
@@ -16,7 +18,8 @@ public class MethodStudy {
     }
 
     public static void main(String[] args) {
-        numbering();
-        numbering2();
+        for (int i = 0; i < 5; i++) {
+            numbering();
+        }
     }
 }
