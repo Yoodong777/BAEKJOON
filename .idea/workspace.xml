@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a84525-7ed0-48a3-8c03-43e7f8ca152c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodStudy/MethodStudy_8.java" afterDir="false" />
     </list>
@@ -56,40 +61,7 @@
       <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\MethodStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodStudy_8">
-    <configuration name="MethodStudy_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodStudy_5" />
-      <module name="BaekJoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodStudy_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodStudy.MethodStudy_6" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MethodStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodStudy_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodStudy.MethodStudy_7" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MethodStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ObjectStudy_3">
     <configuration name="MethodStudy_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodStudy.MethodStudy_8" />
       <module name="BaekJoon" />
@@ -103,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodStudy.MethodStudy_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodStudy.MethodStudy_5" />
+    <configuration name="MethodStudy_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodStudy.MethodStudy_9" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +88,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectStudy_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectStudy.ObjectStudy_1" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectStudy_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectStudy.ObjectStudy_2" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectStudy_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectStudy.ObjectStudy_3" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectStudy_3" />
+        <item itemvalue="Application.ObjectStudy_2" />
+        <item itemvalue="Application.ObjectStudy_1" />
+        <item itemvalue="Application.MethodStudy_9" />
         <item itemvalue="Application.MethodStudy_8" />
-        <item itemvalue="Application.MethodStudy_7" />
-        <item itemvalue="Application.MethodStudy_6" />
-        <item itemvalue="Application.MethodStudy.MethodStudy_5" />
-        <item itemvalue="Application.MethodStudy_5" />
       </list>
     </recent_temporary>
   </component>
