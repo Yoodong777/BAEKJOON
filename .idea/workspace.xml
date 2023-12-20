@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a84525-7ed0-48a3-8c03-43e7f8ca152c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1934.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectStudy/ObjectStudy_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\MethodStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ObjectStudy_5">
+  <component name="RunManager" selected="Application.ObjectStudy_5">
     <configuration name="ObjectStudy_5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectStudy.ObjectStudy_5" />
       <module name="BaekJoon" />
