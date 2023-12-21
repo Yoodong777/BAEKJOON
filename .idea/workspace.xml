@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a84525-7ed0-48a3-8c03-43e7f8ca152c" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_13909.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BaekJoon/Bak_1037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1037.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1934.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 671b30bedca1c87cbadebf55ef3db833889ddc12
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +62,7 @@
       <recent name="C:\Users\Yoo\IdeaProjects\BaekJoon\src\MethodStudy" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Bak_13909">
     <configuration name="Bak_13909" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.Bak_13909" />
@@ -71,6 +77,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+  <component name="RunManager" selected="Application.ObjectStudy_5">
+>>>>>>> 671b30bedca1c87cbadebf55ef3db833889ddc12
     <configuration name="ObjectStudy_5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectStudy.ObjectStudy_5" />
       <module name="BaekJoon" />
