@@ -13,7 +13,6 @@ public class Bak_2750 {
             arr[i] = sc.nextInt();
         }
 
-        // Selection sort
         for(int i = 0; i < N - 1; i++) {
             for(int j = i + 1; j < N; j++) {
                 if(arr[i] > arr[j]) {
