@@ -6,11 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="06a84525-7ed0-48a3-8c03-43e7f8ca152c" name="Changes" comment="">
 <<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_2750.java" afterDir="false" />
+=======
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_13909.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BaekJoon/Bak_1037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1037.java" afterDir="false" />
 =======
       <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bak_1934.java" afterDir="false" />
+>>>>>>> 392ebfbe1db5c5a65335df76365b7bb88b810c9a
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> 671b30bedca1c87cbadebf55ef3db833889ddc12
     </list>
